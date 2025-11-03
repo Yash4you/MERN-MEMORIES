@@ -1,4 +1,42 @@
-# College Memories Yash Kumar
+🧠 MERN Memories
 
+A full-stack MERN (MongoDB, Express.js, React, Node.js) social media application that allows users to post interesting events from their lives — just like a digital scrapbook!
+Users can create, edit, like, and delete posts, each containing a title, message, tags, and an image.
 
-While the purpose of college is to get an education, it is also a unique and unforgettable time, with memories that will last for a lifetime. As you leave that school life behind, you're probably carrying much more around than just a shiny new diploma. Most students in their final year have many memories of college life. This site is on college memories which will help you summarise your experience on campus in a few words.
+🚀 Features
+
+🌐 Full CRUD functionality (Create, Read, Update, Delete)
+
+❤️ Like posts to show appreciation
+
+🏷️ Tag-based search and filtering
+
+📸 Image upload via base64 or file
+
+🔐 User authentication with JWT
+
+🧭 Responsive design built using React and Material UI
+
+💾 Persistent data storage with MongoDB Atlas
+
+🛠️ Tech Stack
+
+Frontend:
+
+React.js
+
+Redux (for state management)
+
+Axios
+
+Material-UI
+
+Backend:
+
+Node.js
+
+Express.js
+
+MongoDB (with Mongoose ODM)
+
+JWT (JSON Web Token) for authentication
